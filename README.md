@@ -1,9 +1,9 @@
 <div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif" width="100"/>
+  <img src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif" width="300"  heigth="250"/>
 </div>
 
   ### :man_technologist: About Me :
-  I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="500" heigth="250"> from Belarus.
+  I am a Frontend Developer from Belarus. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
   - :zap: In my free time I enjoy attending quizzes and doing videos.
   - 💻 I’m interested in Web Development especially Front-end.
   - 🎉 I'm ready to do my best to become a Frontend Developer.
@@ -14,7 +14,7 @@
     <a href="https://t.me/sififoxx">
        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="mailto:dima.antonovich.1999@gmail.com">
+    <a href="mailto:antonovich-dev@yandex.ru">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"/>
     </a>
   ---
