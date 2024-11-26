@@ -3,7 +3,7 @@
 </div>
 
   ### :man_technologist: About Me :
-  I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
+  I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="500" heigth="250"> from Belarus.
   - :zap: In my free time I enjoy attending quizzes and doing videos.
   - 💻 I’m interested in Web Development especially Front-end.
   - 🎉 I'm ready to do my best to become a Frontend Developer.
